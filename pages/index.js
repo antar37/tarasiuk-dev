@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Get started by visiting{' '}
-          <code className={styles.code}><a href="alextarasiuk.com">alextarasiuk.com</a></code>
+          <code className={styles.code}><a href="http://www.alextarasiuk.com">alextarasiuk.com</a></code>
         </p>
 
         <div className={styles.grid}>
