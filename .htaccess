@@ -1,0 +1,6 @@
+PassengerFriendlyErrorPages on
+PassengerNodejs /home/dh_egjy2y/.nvm/versions/node/v12.22.10/bin/node
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(.*)\.domain\.com
+RewriteRule ^(.*)$ subdomains/%1/$1 [L,NC,QSA]
