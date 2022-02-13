@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by visiting{' '}
+          Select the Tarasiuk below{' '}
           <code className={styles.code}><a href="http://www.alextarasiuk.com">alextarasiuk.com</a></code>
         </p>
 
