@@ -18,18 +18,17 @@ export default function Home() {
 
         <p className={styles.description}>
           Select the Tarasiuk below{' '}
-          <code className={styles.code}><a href="http://www.alextarasiuk.com">alextarasiuk.com</a></code>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://tarasiuk.dev/alex" className={styles.card}>
             <h2> Alex &rarr;</h2>
             <p>Master Generalist. Relentless Investigator.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Joel &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Multi-cultural designer with a flair for User Interfaces</p>
           </a>
 
           <a
