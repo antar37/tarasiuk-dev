@@ -19,13 +19,13 @@ export default function Home() {
         <p className={styles.description}>
           Get started by visiting{' '}
           <code className={styles.code}><a href="http://www.alextarasiuk.com">alextarasiuk.com</a></code>
-          
+
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="alextarasiuk.com" className={styles.card}>
+            <h2>Website &rarr;</h2>
+            <p>Musings, writings, and some other stuff.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
