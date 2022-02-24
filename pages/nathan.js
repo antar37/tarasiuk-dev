@@ -16,11 +16,6 @@ export default function Home() {
           Nathan Tarasiuk, Developer
         </h1>
 
-        <p className={styles.description}>
-          Get started by visiting{' '}
-          <code className={styles.code}><a href="http://www.alextarasiuk.com">alextarasiuk.com</a></code>
-        </p>
-
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
