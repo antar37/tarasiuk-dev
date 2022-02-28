@@ -43,6 +43,8 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
 .title,
@@ -88,8 +90,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: rgb(4, 221, 15);
+  border-color: rgb(0, 141, 7);
 }
 
 .card h2 {
